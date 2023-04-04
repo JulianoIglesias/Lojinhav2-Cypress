@@ -1,6 +1,6 @@
 # Apresentação
 
-* Trata-se de uma breve apresentação dos comandos básicos do framework Cypress, baseados no curso Básico para Cypress.
+* Trata-se de uma breve apresentação dos comandos básicos do framework Cypress!
 
 # Aplicação
 
